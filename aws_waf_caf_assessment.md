@@ -234,7 +234,7 @@ Key configurations include:
 │  │  PRIVATE APPLICATION SUBNETS                                         │   │
 │  │  ┌─────────────────────┐   ┌─────────────────────┐                  │   │
 │  │  │  EC2 Instance (AZ-1)│   │  EC2 Instance (AZ-2)│                  │   │
-│  │  │  (Auto Scaling Group│   │  (Auto Scaling Group)│                  │   │
+│  │  │  (Auto Scaling Group)│   │  (Auto Scaling Group)│                  │   │
 │  │  └──────────┬──────────┘   └──────────┬──────────┘                  │   │
 │  │             │  ElastiCache (Redis Multi-AZ) ◄───────────────────┐   │   │
 │  └─────────────┼──────────────────────────────────────────────────┼───┘   │
@@ -261,7 +261,7 @@ Key configurations include:
 │  └────────────┘ └──────────────┘ └────────────┘                            │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
+Visual display also here: ![Cloud_Architecture](Cloud_architecture.png)
 ---
 
 #### WAF Pillar Alignment Check
