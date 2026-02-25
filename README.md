@@ -52,6 +52,3 @@ A revised target architecture was designed from scratch to address all five WAF 
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
 
-## Submission
-
-Submitted via Microsoft Forms as a GitHub repository link per the lab instructions.
